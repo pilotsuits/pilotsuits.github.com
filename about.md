@@ -4,8 +4,21 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<p>PilotSuits is Fran Broderick (<a href="http://www.reverbnation.com/fridayinamerica" target="_blank">of Friday in America</a>), Danny Sheehan (<a href="http://www.themeanjeanoaks.com" target="_blank">of The Mean Jean Oaks</a>) and Matt Sloane (missing).</p>
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+---
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Last Trip to Sykes (EP) featured Ben Rossi & Mike Caywood. 
+Mixed and Mastered by Brendan Simms. 
+
+---
+
+Supported by Live Drums - Ben Collins. 
+
+---
+
+Recorded in Bushwick, Brooklyn and Rochester, New York. 
+
+---
+
+PilotSuits. are a hardcore, thrashcore, hatecore, corecore, and corehard outfits. In fact, PilotSuits. has been asked to leave some of the most influential bands in the Toronto scene. Art: @mattjcarbone. pilotsuits@gmail.com

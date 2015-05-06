@@ -1,14 +1,55 @@
-# Site settings
-title: PilotSuits.
-email: pilotsuits@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://pilotsuits.us" # the base hostname & protocol for your site
-twitter_username: PilotSuits
-github_username:  PilotSuitsMusic
-
 # Build settings
-markdown: kramdown
+markdown: redcarpet
+highlighter: pygments
+gems:
+  - jemoji
+  
+# Site settings
+title: "PilotSuits."
+description: > # this means to ignore newlines until "email:"
+   
+
+email: pilotsuits@gmail.com
+#blog logo
+logo: "/assets/images/pilot-suits-photo.jpg"
+# blog cover
+cover: "/assets/images/pilotsuits_drom.jpg"
+
+name: 'PilotSuits.'
+author: 'PilotSuits.'
+author_image: "/assets/images/author.jpg"
+
+paginate:	5
+
+url: "http://myblog.***.***" # the base hostname & protocol for your site
+baseurl: ""
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/pilotsuits
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+ # - icon:	facebook
+ #   url:	https://www.facebook.com/Pilotsuits
+ #   desc: Connect with me facebook
+ #   share_url: 
+ #   share_title: 
+ #   share_link: 
+
+  - icon:	github
+    url:	https://github.com/pilotsuits
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
