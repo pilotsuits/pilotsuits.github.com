@@ -1,0 +1,58 @@
+---
+layout: default
+---
+
+
+<!-- <div class="teaserimage">
+    <div class="teaserimage-image" {% if site.cover %}style="background-image: url({{ site.cover }})"{% endif %}>
+        Teaser Image
+    </div>
+</div> -->
+
+<header class="blog-header">
+    {% if site.logo %}
+      <a class="blog-logo" href="{{site.url}}" style="background-image: url('{{ site.logo }}')">{{ site.title }}</a>
+    {% endif %}
+    <h1 class="blog-title">Album</h1>
+    <h2 class="blog-description">{{ site.description }}</h2>
+    <div class="custom-links">
+      {% for social in site.social %}
+        {% if social.url %}
+        <!--     <a class="icon-{{ social.icon }}" href="{{ social.url }}">
+              <i class="fa fa-{{ social.icon }}"></i>
+            </a> -->
+            <!-- &nbsp;&nbsp;·&nbsp;&nbsp; -->
+        {% endif %}
+      {% endfor %}
+
+
+
+
+  <object type="application/x-shockwave-flash" data="dewplayer-playlist.swf" width="235" height="200" id="dewplayer" name="dewplayer">
+    <param name="wmode" value="transparent" />
+    <param name="movie" value="dewplayer-playlist.swf" />
+    <param name="flashvars" value="showtime=true&autoreplay=true&xml=playlist.xml" />
+  </object>
+
+    </div>
+</header>
+
+<main class="content" role="main">
+<center>
+PilotSuits. are currently working on and recording in Brooklyn and Rochester, NY (Spring 2015).</br>
+
+<h3>To Do:</h3>
+<h3>Spreadsheet:</h3>
+<h3>Calendar:</h3>
+
+
+</center>
+    
+
+
+    </div>
+
+
+
+
+</main>
