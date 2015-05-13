@@ -21,10 +21,6 @@
             <title>4 am super old</title>
         </track>
         <track>
-            <location>mp3/forgot.mp3</location>
-            <title>Forgot Their Names</title>
-        </track>
-        <track>
             <location>mp3/Evernote_20131214_19_12_56.mp3</location>
             <title>Going Away</title>
         </track>
@@ -39,6 +35,10 @@
         <track>
             <location>mp3/AudioNote-2012-07-13_150208.mp3</location>
             <title>I want a Radio</title>
+        </track>
+        <track>
+            <location>mp3/forgot.mp3</location>
+            <title>Forgot Their Names</title>
         </track>
     </trackList>
 </playlist>
