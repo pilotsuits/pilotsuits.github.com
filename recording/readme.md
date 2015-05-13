@@ -1,6 +1,9 @@
 #To Do:
-* Set up a new Dropbox folder directory
 
+Either: 
+* To Do:
+ * Set up a new Dropbox folder directory
+* Complete:
 
 Danny:
 * To Do:
