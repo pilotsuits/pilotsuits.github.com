@@ -25,4 +25,3 @@ Whole Lot - Mixed and Mastered by Brendan Simms. </p></center>
 <center>
 <p>Recorded in Bushwick, Brooklyn and Rochester, New York. </p></center>
 
-
