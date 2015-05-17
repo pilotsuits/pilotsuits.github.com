@@ -2,7 +2,8 @@
 
 Either: 
 * To Do:
- * Set up a new Dropbox folder directory
+ * Set up a new Dropbox folder directory for Logic files
+ * Set up a new public folder for mp3's for Dewplayer, link to that instead of Github, share folder with Dukes. 
  * [Sign up for RumbleFish](http://rumblefish.com/)?
 * Complete:
 
