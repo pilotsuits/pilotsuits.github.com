@@ -9,6 +9,15 @@
     <trackList>
 
         <track>
+            <location>https://dl.dropboxusercontent.com/u/36281098/demos/pilotsuits/mp3/masters_june.mp3</location>
+            <title>masters - june</title>
+        </track>
+        <track>
+            <location>https://dl.dropboxusercontent.com/u/36281098/demos/pilotsuits/mp3/forgot_june.mp3</location>
+            <title>forogot - june</title>
+        </track>
+
+        <track>
             <location>https://dl.dropboxusercontent.com/u/36281098/demos/pilotsuits/mp3/raf.mp3</location>
             <title>Raf Gordoshakinor - newer</title>
         </track>
