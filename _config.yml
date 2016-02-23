@@ -11,9 +11,11 @@ description: > # this means to ignore newlines until "email:"
 
 email: pilotsuits@gmail.com
 #blog logo
-logo: "/assets/images/pilot-suits-photo.jpg"
+logo: "/assets/images/PS-BC-COVER-ani.gif"
 # blog cover
 cover: "/assets/images/pilotsuits_drom.jpg"
+
+
 
 name: 'PilotSuits.'
 author: 'PilotSuits.'

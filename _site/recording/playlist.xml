@@ -9,17 +9,61 @@
     <trackList>
 
         <track>
-            <location>mp3/raf.mp3</location>
-            <title>Raf Gordoshakinor - 4_2_15, 2.16 PM.mp3</title>
+            <location>https://dl.dropboxusercontent.com/u/36281098/demos/pilotsuits/mp3/masters_june.mp3</location>
+            <title>masters - june</title>
         </track>
         <track>
-            <location>mp3/bowery.mp3</location>
+            <location>https://dl.dropboxusercontent.com/u/36281098/demos/pilotsuits/mp3/forgot_june.mp3</location>
+            <title>forogot - june</title>
+        </track>
+
+        <track>
+            <location>https://dl.dropboxusercontent.com/u/36281098/demos/pilotsuits/mp3/raf.mp3</location>
+            <title>Raf Gordoshakinor - newer</title>
+        </track>
+        <track>
+            <location>https://dl.dropboxusercontent.com/u/36281098/demos/pilotsuits/mp3/bowery.mp3</location>
             <title>Bowery3 - 2_9_15, 10.23 AM.mp3</title>
         </track>
         <track>
-            <location>mp3/4am.mp3</location>
-            <title>4 am super old</title>
+            <location>https://dl.dropboxusercontent.com/u/36281098/demos/pilotsuits/mp3/4am.mp3</location>
+            <title>4 am</title>
         </track>
-        
+        <track>
+            <location>https://dl.dropboxusercontent.com/u/36281098/demos/pilotsuits/mp3/Evernote_20131214_19_12_56.mp3</location>
+            <title>Going Away</title>
+        </track>
+        <track>
+            <location>https://dl.dropboxusercontent.com/u/36281098/demos/pilotsuits/mp3/Evernote_20131218_21_34_28.mp3</location>
+            <title>Going Away 2</title>
+        </track>
+        <track>
+            <location>https://dl.dropboxusercontent.com/u/36281098/demos/pilotsuits/mp3/Evernote_20140423_20_31_53.mp3</location>
+            <title>Weird Walk Idea</title>
+        </track>
+        <track>
+            <location>https://dl.dropboxusercontent.com/u/36281098/demos/pilotsuits/mp3/AudioNote-2012-07-13_150208.mp3</location>
+            <title>I want a Radio</title>
+        </track>
+        <track>
+            <location>https://dl.dropboxusercontent.com/u/36281098/demos/pilotsuits/mp3/forgot.mp3</location>
+            <title>Forgot Their Names</title>
+        </track>
+        <track>
+            <location>https://dl.dropboxusercontent.com/u/36281098/demos/pilotsuits/mp3/forgot2.mp3</location>
+            <title>Forgot Their Names - real bass and some guitar</title>
+        </track>
+        <track>
+            <location>https://dl.dropboxusercontent.com/u/36281098/demos/pilotsuits/mp3/Forgot20150517.mp3</location>
+            <title>Backingv1 - Forgot Their Names</title>
+        </track>
+		<track>
+            <location>https://dl.dropboxusercontent.com/u/36281098/demos/pilotsuits/mp3/finallight.mp3</location>
+            <title>Final Light</title>
+        </track>
+		<track>
+            <location>https://dl.dropboxusercontent.com/u/36281098/demos/pilotsuits/mp3/velveta.mp3</location>
+            <title>Unnamed</title>
+        </track>
     </trackList>
 </playlist>
