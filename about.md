@@ -9,19 +9,12 @@ permalink: /about/
 ---
 
 <center>
-<p>PilotSuits. are a hardcore, thrashcore, hatecore, corecore, and corehard outfits. In fact, PilotSuits. has been asked to leave some of the most influential bands in the Toronto scene. Label: <a href="http://jajajrjr.com" target="_blank">Jaja Jr. jr. Records</a>. Contact: pilotsuits at gmail dot com</p></center>
+<p>PilotSuits. are a hardcore, thrashcore, hatecore, corecore, and corehard outfits. In fact, PilotSuits. has been asked to leave some of the most influential bands in the Toronto scene. Label: <a href="http://jajajrjr.com" target="_blank">Jaja Jr. jr. Records</a>. Contact: pilotsuits at gmail dot com</p>
 
---- 
-
-<center>
 <p>Last Trip to Sykes (EP) featured Ben Rossi & Mike Caywood. 
 Mixed and Mastered by Brendan Simms. 
 Supported by Live Drums - Ben Collins.
-Whole Lot - Mixed and Mastered by Brendan Simms. </p></center> 
+Whole Lot - Mixed and Mastered by Brendan Simms. </p>
 
-
----
-
-<center>
 <p>Recorded in Bushwick, Brooklyn and Rochester, New York. </p></center>
 
