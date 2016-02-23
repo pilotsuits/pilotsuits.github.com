@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 <center>
-<p>PilotSuits is Fran Broderick (<a href="http://www.reverbnation.com/fridayinamerica" target="_blank">of Friday in America</a>), Danny Sheehan (<a href="http://www.themeanjeanoaks.com" target="_blank">of The Mean Jean Oaks</a>) and Matt Sloane (missing). Art:<a href="https://twitter.com/mattjcarbone" target="_blank">@mattjcarbone</a>. </p></center>
+<p>PilotSuits is a band with members from <a href="http://www.reverbnation.com/fridayinamerica" target="_blank"> Friday in America</a>, <a href="http://www.themeanjeanoaks.com" target="_blank">The Mean Jean Oaks</a>, and <a href="lh2b.bandcamp.com" target="_blank"> Left-Handed 2nd Baseman</a>. Matt Sloane (missing). Art:<a href="https://twitter.com/mattjcarbone" target="_blank">@mattjcarbone</a>. </p></center>
 
 ---
 
