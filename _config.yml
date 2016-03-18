@@ -1,9 +1,10 @@
 # Build settings
-markdown: redcarpet
-highlighter: pygments
+#markdown: redcarpet
+#highlighter: pygments
+highlighter: rouge
 gems:
   - jemoji
-  
+
 # Site settings
 title: "PilotSuits."
 description: > # this means to ignore newlines until "email:"
