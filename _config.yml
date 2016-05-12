@@ -57,6 +57,13 @@ social:
     share_title:
     share_link:
 
+  - icon:  music
+    url: https://pilotsuits.bandcamp.com
+    desc:  bandcamp
+    share_url:
+    share_title:
+    share_link:
+    target: '_blank'
 
 #  - icon:	google-plus
 #    url:	https://google.com/???
