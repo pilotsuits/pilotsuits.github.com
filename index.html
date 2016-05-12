@@ -18,7 +18,7 @@ layout: default
     
 
     <div class="custom-links">
-      <a href="/about/">About</a> &nbsp;·&nbsp;
+      
 
       {% for social in site.social %}
         {% if social.url %}
@@ -27,6 +27,7 @@ layout: default
             </a>
             &nbsp;·&nbsp;
         {% endif %}
+        <a href="/about/">About</a>
       {% endfor %}
       <!-- <a href="/about/">About</a> &nbsp;·&nbsp; -->
       <!-- <a href="https://instagram.com/pilotsuits/">Instagram</a> &nbsp;·&nbsp; -->
