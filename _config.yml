@@ -57,6 +57,14 @@ social:
     share_title:
     share_link:
 
+  - icon:  spotify
+    url: https://open.spotify.com/artist/7xDEsNpkGIBp0UnHTqnfr6
+    desc:  Spotify
+    share_url:
+    share_title:
+    share_link:
+    target: '_blank'
+
   - icon:  music
     url: https://pilotsuits.bandcamp.com
     desc:  bandcamp
